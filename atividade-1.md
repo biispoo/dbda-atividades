@@ -23,3 +23,4 @@
 - [ ] e) Modelo lógico, pois traduz o modelo conceitual em tabelas, colunas e chaves, ainda sem se prender aos tipos de dados exatos de um SGBD específico
 
 **Justificativa:** <escreva aqui sua justificativa>
+tr
